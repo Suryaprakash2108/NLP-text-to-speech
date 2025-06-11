@@ -21,14 +21,6 @@ A simple **Python-based voice assistant** that responds to user commands using *
 - `README.md` — Project documentation
 
 ---
-
-## 🛠️ Requirements
-
-Install the required libraries using pip:
-
-```bash
-pip install gTTS wikipedia
----
 ## ▶️ How It Works
 
 The assistant waits for user input.
@@ -52,6 +44,10 @@ User says: wikipedia python programming
 [Voice] Here is what I found on Wikipedia:
 [Voice] Python is an interpreted high-level general-purpose programming language...
 
+yaml
+Copy
+Edit
+
 ---
 
 ## 🧠 Technologies Used
@@ -62,7 +58,11 @@ User says: wikipedia python programming
 
 ---
 
-## 🚀 Run the Project
+
+
+## 🛠️ Requirements
+
+Install the required libraries using pip:
 
 ```bash
-python main.py
+pip install gTTS wikipedia
