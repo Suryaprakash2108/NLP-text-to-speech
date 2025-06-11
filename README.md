@@ -28,6 +28,7 @@ Install the required libraries using pip:
 
 ```bash
 pip install gTTS wikipedia
+---
 ## ▶️ How It Works
 
 The assistant waits for user input.
